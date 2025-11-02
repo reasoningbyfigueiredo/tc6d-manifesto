@@ -1,0 +1,13 @@
+# Build artifacts
+*.pdf
+*.log
+*.aux
+*.out
+*.toc
+
+# OS
+.DS_Store
+
+# Pandoc intermediates
+*.tex
+*.yaml
