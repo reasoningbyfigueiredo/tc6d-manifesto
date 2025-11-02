@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "TC6D Manifesto v1.0 — Ensaio Filosófico-Matemático sobre a Estrutura de Campo da Realidade"
 author: "Rogério Figueiredo"
