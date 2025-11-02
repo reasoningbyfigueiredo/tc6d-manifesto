@@ -3,6 +3,9 @@ layout: default
 title: "TC6D Manifesto v1.0"
 ---
 
+<!-- MathJax -->
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
 # TC6D Manifesto v1.0  
 ### *Ensaio Filosófico-Matemático sobre a Estrutura de Campo da Realidade*
 
@@ -10,4 +13,4 @@ title: "TC6D Manifesto v1.0"
 
 ![Diagrama Φ–Ξ](figures/phi_xi_diagram.png)
 
-{% include_relative paper/manifesto_tc6d_v1.md %}
+# Manifesto missing

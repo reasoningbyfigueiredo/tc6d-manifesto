@@ -1,9 +1,9 @@
 # Build artifacts
-*.pdf
 *.log
 *.aux
 *.out
 *.toc
+*.Identifier
 
 # OS
 .DS_Store

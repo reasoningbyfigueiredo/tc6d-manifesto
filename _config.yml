@@ -5,3 +5,8 @@ show_downloads: true
 github:
   is_project_page: true
   repository_url: https://github.com/reasoningbyfigueiredo/tc6d-manifesto
+markdown: kramdown
+kramdown:
+  input: GFM
+  math_engine: mathjax
+
